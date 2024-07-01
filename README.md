@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshmwilenga
+- 👋 Hi, I’m Joshmwilenga
 - 👀 I’m interested in Agri-Tech
 - 🌱 I’m currently learning Software Development
 - 📫 How to reach me email: joshjox@proton.me
