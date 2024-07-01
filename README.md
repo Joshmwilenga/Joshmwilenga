@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joshmwilenga
+- 👀 I’m interested in Agri-Tech
+- 🌱 I’m currently learning Software Development
+- 📫 How to reach me email: joshjox@proton.me
+- ⚡ Fun fact: Imagine Life without Cows!
